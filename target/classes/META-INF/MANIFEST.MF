@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: yann-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PDZH317
+Implementation-Vendor-Id: com.nwardez
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/yann-1
+Created-By: Maven Integration for Eclipse
+
